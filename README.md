@@ -18,8 +18,8 @@ Please follow the instructions.
 * [Putting The Device Back](#putting-the-device-back)
 * [More Documentations](more-documentations)
 
-## where To Find
-
+## Where To Find
+The drone and the controller is displayed in the lab on the third shelf. The remaining are placed in the box and you can find it in Storage Room - Shelf B2.
 
 
 ## In The Box
