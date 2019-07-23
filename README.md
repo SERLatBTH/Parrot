@@ -9,12 +9,18 @@ Please follow the instructions.
 * [How To Make It Works](#how-to-make-it-works)
   * [Charging The Batteries](#charging-the-batteries)
   * [Powering Up](#powering-up)
+  * [Connecting a Smartphone](#connecting-a-smartphone)
+  * [Connecting the Parrot SkyController 2](#connecting-the-parrot-skycontroller 2)
+  * [Using the Parrot SkyController 2 With A Smartphone](#using-the-parrot-skycontroller-2-with-a-smartphone)
+  * [Using The Parrot Cockpitglasses 2](#using-the-parrot-cockpitglasses)
 * [Device's Functionalities and Features](#devices-functionalities-and-features)
-* [Safety Guidelines](#safety-guidelines)
-  * [Environmental Consideration](#environmental-consideration)
-  * [Operation](#operation)
-  * [Pre-Flight Checklist](pre-flight-checklist)
+* [Precautions For Use And MaintenanceParrot](#precautions-for-use-and-maintenanceparrot)
 * [SDK](#sdk)
+  * [Ground SDK Mobile](#ground-sdk-mobile)
+  * [PDrAW](#pdraw)
+  * [OLYMPE](#olympe)
+  * [SPHINX](#sphinx)
+  * [3D Model](#3d-model)
 * [Putting The Device Back](#putting-the-device-back)
 * [More Documentations](more-documentations)
 
@@ -57,7 +63,7 @@ Parrot Bebop 2 FPV is a big box wich contains two separated boxes inside. One in
   2. Connect the supplied cable to the charger.
   3. Connect the battery to the charger's cable, and then plug the charger into the mains.
      * The warning light is red while charging and then turns green when the battery is charged. The battery charge time is approximately 80 minutes. Flying time is approximately 30 minutes.
-  #### Charging the Parrot SkyControlller 2 Battery
+  #### Charging the Parrot SkyController 2 Battery
   1. Take the adapter appropriate to your country and fix it on the charger.
   2. Connect the charger cable to Parrot Skycontroller 2, then plug the charger into the mains.
 
@@ -74,7 +80,7 @@ Parrot Bebop 2 FPV is a big box wich contains two separated boxes inside. One in
   5. Wait for your smartphone to connect to the Wi-Fi network of the Parrot Bebop 2. This connection is generally represented by the Wi-Fi logo appearing on the smartphone screen.
   6. Launch the FreeFlight Pro application.> The connection between your smartphone and the Parrot Bebop 2 is established automatically.
 
-  ### Connecting the Parrot SkyControlller 2
+  ### Connecting the Parrot SkyController 2
   1. Place the Parrot Bebop 2 on a flat surface.
   2. Switch on your Parrot Bebop 2.
   3. Press the ON/OFF button on the Parrot Skycontroller 2 to turn it on.
