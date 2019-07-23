@@ -10,7 +10,7 @@ Please follow the instructions.
   * [Charging The Batteries](#charging-the-batteries)
   * [Powering Up](#powering-up)
   * [Connecting a Smartphone](#connecting-a-smartphone)
-  * [Connecting the Parrot SkyController 2](#connecting-the-parrot-skycontroller 2)
+  * [Connecting the Parrot SkyController 2](#connecting-the-parrot-skycontroller-2)
   * [Using the Parrot SkyController 2 With A Smartphone](#using-the-parrot-skycontroller-2-with-a-smartphone)
   * [Using The Parrot Cockpitglasses 2](#using-the-parrot-cockpitglasses)
 * [Device's Functionalities and Features](#devices-functionalities-and-features)
@@ -201,3 +201,9 @@ Full simulation environment
 Create, Simulate, Print
 + You can download the blender 3D model of Parrot ANAFI to integrate in your project, or create and print add-ons and accessories!
 + The application can be downloaded from [here](https://developer.parrot.com/downloads/Parrot-Anafi.blend.zip)
+
+## Putting The Device Back
+After finish using the device, it is important to turn off, disassemble and put it back in the box as it was found, then put the box back in its place.
+
+## More Documentations
+
